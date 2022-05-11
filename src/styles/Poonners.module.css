@@ -1,0 +1,44 @@
+.painnersection {
+  margin-top: 4rem;
+  text-align: left;
+}
+
+.painnerh2 {
+  font-weight: bold;
+}
+
+.ponnerimg {
+  width: 100%;
+  border-radius: 8px;
+  margin-bottom: 0.8rem;
+}
+
+.pionnersmalep {
+  background-color: rgba(130, 197, 128, 0.5);
+  height: 30px;
+  width: 65%;
+  /* padding-left: .4rem; */
+  border-radius: 3px;
+  text-align: center;
+  color: rgb(110, 184, 37);
+}
+
+.painnertext {
+  padding-left: 1rem;
+}
+
+.checkbox {
+  margin-right: 0.3rem;
+}
+
+.pionnerchack {
+  background-color: chartreuse;
+  padding: 0rem 0.2rem 0.3rem 0.2rem;
+  border-radius: 100%;
+  color: white;
+}
+
+.Poonnersbtn {
+  background-color: rgb(41, 38, 38);
+  width: 150px;
+}

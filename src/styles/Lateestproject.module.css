@@ -1,0 +1,60 @@
+.LatestProjects {
+  margin-top: 5rem;
+  margin-bottom: 5rem;
+  width: 100%;
+}
+
+.lestprojimg {
+  width: 100%;
+  height: 100%;
+  border-radius: 7px;
+  margin-bottom: 0.6rem;
+}
+
+.provvalusmaldiv {
+  margin-top: 3rem;
+}
+
+.provvalusmaldiv:hover {
+  border: 2px solid green;
+  border-radius: 10px;
+}
+
+.provvalusmaldiv2 {
+  border-radius: 7px;
+  padding: 2rem;
+  background-color: white;
+  color: black;
+  text-align: left;
+}
+
+.Latestbtn {
+  border: 2px solid black;
+  text-align: center;
+  width: 100%;
+  background-color: black;
+}
+
+.Latestbtn p {
+  padding-top: 0.6rem;
+  float: left;
+}
+
+.Latestbtn i {
+  padding-top: 0.8rem;
+  float: right;
+}
+
+.Latestbtn:hover {
+  background-color: rgb(41, 177, 14);
+  color: wheat;
+  border: none;
+}
+
+.iconcenter {
+  margin: auto;
+}
+
+.Providingvaluep {
+  color: rgb(41, 177, 14);
+}

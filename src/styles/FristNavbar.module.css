@@ -1,0 +1,81 @@
+.secondtNav {
+  background-color: rgb(41, 38, 38);
+  width: 100%;
+  padding-right: 1.2rem;
+  padding-top: 0.6rem;
+  padding-bottom: 0.3rem;
+}
+
+.liststyle {
+  display: flex;
+  list-style: none;
+}
+.liststyle li:not(:last-child) {
+  margin-right: 0.8rem;
+}
+
+.liststyle li a {
+  color: white;
+  text-decoration: none;
+}
+
+.liststyle li:hover a {
+  color: rgb(139, 248, 14);
+}
+
+.liststyle li:hover a .icongreen {
+  color: rgb(139, 248, 14);
+}
+
+.icongreen li:hover {
+  color: rgb(139, 248, 14);
+}
+
+.icongreen {
+  color: green;
+}
+
+.ukpic {
+  width: 35px;
+  height: 30px;
+}
+
+.frromenglish {
+  width: 90%;
+}
+
+@media only screen and (max-width: 576px) {
+  .countrybox {
+    display: none;
+  }
+
+  .socialicon {
+    display: none;
+  }
+
+  .fstnavitem {
+    /* margin: auto; */
+    text-align: center;
+  }
+
+  .fontsmol {
+    font-size: 12px;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .countrybox {
+    display: none;
+  }
+
+  .navcplt {
+    display: flex;
+    flex-direction: row;
+  }
+}
+
+@media only screen and (max-width: 995px) {
+  .countrybox {
+    display: none;
+  }
+}

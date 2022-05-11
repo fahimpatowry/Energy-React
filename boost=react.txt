@@ -1,0 +1,187 @@
+import { HiArrowRight } from "react-icons/hi";
+<HiArrowRight />
+
+*************
+nav
+.mainnavber {
+  padding-left: 5rem;
+  padding-right: 5rem;
+  /* height: 80px;*/
+  width: 100%;
+  background-color: rgb(54, 53, 53);
+  color: white;
+  padding-top: 0.7rem;
+  padding-bottom: 0.7rem;
+}
+
+.navbarnav {
+  display: flex;
+  /* text-decoration: none; */
+  list-style: none;
+}
+
+.navitem {
+  float: left;
+  padding: 0.5rem;
+}
+
+.navitem:active {
+  color: rgb(240, 240, 233);
+}
+
+.navlink {
+  text-decoration: none;
+  color: rgb(206, 206, 206);
+}
+
+.navlink:hover {
+  color: rgb(240, 240, 233);
+}
+
+.containerfluid {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -ms-flex-align: center;
+  align-items: center;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+}
+
+.dropdown {
+  position: relative;
+}
+
+.navlink:active {
+  color: rgb(240, 240, 233);
+}
+
+.navlink:active > .navlink {
+  background-color: black;
+  color: white;
+  text-align: left;
+}
+
+.dropdownmenu {
+  display: none;
+}
+
+.navlink:active > .dropdownmenu {
+  display: block;
+}
+/* Fris */
+
+*************
+import {
+  HiOutlineClock,
+  HiOutlineMail,
+  HiOutlinePhoneOutgoing,
+} from "react-icons/hi";
+import { ImFacebook, ImInstagram, ImWhatsapp } from "react-icons/im";
+
+
+*****************app
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: var(--fontPrimary);
+  font-family: "Montserrat", sans-serif;
+}
+
+body {
+  background-color: var(--bodyBackground);
+}
+
+.row {
+  display: flex;
+}
+
+.m-auto {
+  margin: auto;
+}
+
+.testbold {
+  font-weight: bold;
+}
+
+/* @media (max-width: 480px) {
+  .text {
+    font-size: 16px;
+  }
+} */
+
+@media (min-width: 992px) {
+  .col-lg-6 {
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
+}
+
+@media (min-width: 992px) {
+  .col-lg-7 {
+    -ms-flex: 0 0 58.33333%;
+    flex: 0 0 58.33333%;
+    max-width: 558.33333%;
+  }
+}
+
+@media (min-width: 992px) {
+  .col-lg-4 {
+    -ms-flex: 0 0 33.33333%;
+    flex: 0 0 33.33333%;
+    max-width: 33.33333%;
+  }
+}
+
+@media (min-width: 992px) {
+  .col-lg-2 {
+    -ms-flex: 0 0 16.6666%;
+    flex: 0 0 16.6666%;
+    max-width: 16.6666%;
+  }
+}
+
+@media (min-width: 992px) {
+  .col-lg-1 {
+    -ms-flex: 0 0 8.333%;
+    flex: 0 0 8.333%;
+    max-width: 8.333%;
+  }
+}
+
+
+

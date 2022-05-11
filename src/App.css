@@ -1,0 +1,44 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.inputhide {
+  display: none;
+}
+
+.serchbtn {
+  position: relative;
+}
+
+.inputshow {
+  position: absolute;
+  width: 80px;
+  margin-left: -7.2rem;
+  border-radius: 7px;
+}
+
+@media (min-width: 992px) {
+  .inputshow {
+    margin-left: -8.5em;
+    width: 100px;
+  }
+}
+
+/* @media (max-width: 971) {
+  .inputshow {
+    right: 60%;
+    width: 80px;
+  }
+} */
+
+/* @media (max-width: 576px) {
+  .inputshow {
+    right: 63%;
+    width: 80px;
+  }
+} */

@@ -1,0 +1,90 @@
+.leadingSuppliersec {
+  margin-top: 13.5rem;
+  margin-bottom: 5rem;
+  color: black;
+}
+
+.solarpamdiv {
+  background-color: rgb(228, 228, 228);
+  box-shadow: 1px 2px 5px 2px #888888;
+}
+
+.solarpamspan {
+  width: 99%;
+  height: 2px;
+  background-color: rgb(129, 124, 124);
+}
+
+/* .solarpam-div > h1{
+    margin-bottom: 1rem;
+} */
+
+.solarpamdiv > p {
+  margin-top: 1rem;
+}
+.vrtesonother {
+  top: -3.5rem;
+  color: black;
+}
+
+.checkbox {
+  margin-right: 0.3rem;
+  text-align: left;
+}
+
+.checkboxled {
+  margin-right: 0.5rem;
+}
+
+.solarpamdiv {
+  position: relative;
+}
+
+.spandiv2 {
+  position: absolute;
+  width: 90.1%;
+  height: 4px;
+  background-color: rgb(16, 133, 5);
+  bottom: 0;
+  border-radius: 0 0 6px 0;
+}
+
+.margintopled {
+  margin-top: 4rem;
+}
+
+.lastparaled {
+  padding-top: 2rem;
+}
+
+.marginbottom {
+  margin-bottom: 2rem;
+}
+
+.iconcenter {
+  margin: auto;
+}
+
+.Providingvaluep {
+  color: rgb(24, 148, 20);
+}
+
+.solarpamdiv {
+  color: black;
+}
+
+.icondivprvvel {
+  margin-bottom: 0.9rem;
+}
+
+.solarpamspan {
+  width: 99%;
+  height: 2px;
+  background-color: rgb(129, 124, 124);
+}
+.pionnerchack {
+  background-color: rgb(41, 38, 38);
+  padding: 0.2rem;
+  border-radius: 100%;
+  color: white;
+}

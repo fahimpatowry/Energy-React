@@ -1,0 +1,138 @@
+.Providingvalue {
+  padding-top: 6.5rem;
+  padding-bottom: 5rem;
+  margin: auto;
+  text-align: left;
+  color: white;
+}
+
+/*  */
+.Providingvaluep {
+  color: rgb(24, 148, 20);
+  font-weight: 500;
+}
+
+.colorwhite {
+  color: white;
+}
+
+.btnprval {
+  border: 2px solid wheat;
+  color: wheat;
+  margin-right: 1.5rem;
+  font-weight: bold;
+  padding: 0.8rem;
+}
+
+.btnprval:hover {
+  background: rgb(10, 150, 5);
+  color: wheat;
+  border: none;
+  padding: 0.8rem;
+}
+
+.pionnerchack {
+  background-color: chartreuse;
+  padding: 0.2rem;
+  border-radius: 100%;
+  color: white;
+}
+
+.procvspan {
+  color: wheat;
+  border-radius: 80%;
+  background-color: rgb(41, 39, 39);
+}
+
+/*  */
+
+.provvalusmaldiv {
+  margin-top: 5rem;
+  padding: 5px;
+  background-color: white;
+}
+
+.provvalusmaldiv:hover {
+  padding: 10px;
+}
+
+.provvalusmaldiv2 {
+  border-radius: 7px;
+  padding: 2rem;
+  background-color: white;
+  color: rgb(255, 255, 255);
+}
+
+.provvalusmaldiv2:hover {
+  border: 2px solid green;
+}
+
+.icondivprvvel {
+  margin-bottom: 0.9rem;
+}
+
+.slidermargin {
+  bottom: -1rem;
+}
+/*  */
+
+/*  */
+.lastproval {
+  margin-top: 4rem;
+}
+
+.Providingvaluesec {
+  background-color: rgb(41, 38, 38);
+  position: relative;
+  width: 100%;
+  margin: 2rem 0 2rem 0;
+}
+
+.lastprovaltest {
+  margin-bottom: 1rem;
+}
+
+.lastdivimhprovve2 {
+  position: absolute;
+  position: relative;
+  right: 0;
+}
+
+.lastdivimhprovve {
+  position: absolute;
+  width: 70%;
+  border-radius: 13px;
+  height: 300px;
+  /* margin: 2rem; */
+  margin-left: 5rem;
+}
+/*  */
+.bgnone {
+  background-color: rgb(230, 217, 217, 0);
+}
+
+.colorwhite {
+  color: white;
+}
+
+.marcenter {
+  margin-left: 15%;
+  /* margin-right: 15%; */
+}
+/* @media (min-width: 768px) {
+  .marcenter {
+    margin-left: 20%;
+  }
+}
+
+@media (min-width: 768px) {
+  .marcenter {
+    margin-left: 20%;
+  }
+} */
+
+@media (min-width: 576px) {
+  .marcenter2 {
+    margin: auto;
+  }
+}
