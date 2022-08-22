@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Energy-React/static/css/main.b71a046c.css",
+    "main.js": "/Energy-React/static/js/main.964bb66e.js",
+    "static/js/787.d3d31a48.chunk.js": "/Energy-React/static/js/787.d3d31a48.chunk.js",
+    "static/media/herors1pic (4).jpg": "/Energy-React/static/media/herors1pic (4).b82d68fc610124fa82cd.jpg",
+    "static/media/solar-stric.jpg": "/Energy-React/static/media/solar-stric.69fb656139e938aea36f.jpg",
+    "static/media/herors1pic (3).jpg": "/Energy-React/static/media/herors1pic (3).00057ec444e622d1082c.jpg",
+    "static/media/herors1pic (1).jpg": "/Energy-React/static/media/herors1pic (1).1798561aae412620b67e.jpg",
+    "static/media/brand.jpg": "/Energy-React/static/media/brand.59cff99f59386124f71e.jpg",
+    "index.html": "/Energy-React/index.html",
+    "main.b71a046c.css.map": "/Energy-React/static/css/main.b71a046c.css.map",
+    "main.964bb66e.js.map": "/Energy-React/static/js/main.964bb66e.js.map",
+    "787.d3d31a48.chunk.js.map": "/Energy-React/static/js/787.d3d31a48.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b71a046c.css",
+    "static/js/main.964bb66e.js"
+  ]
+}
